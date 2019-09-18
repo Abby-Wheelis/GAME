@@ -61,11 +61,11 @@ function PathOneResult() {
 function PathTwoResult() {
     document.getElementById("finalresult").innerHTML= "Ohhhh NO!!! That was a bad idea, this path is full of snakes! We're out of here!!!"}
 function PathThreeResult() {
-    document.getElementById("finalresult").innerHTML= "At the end of a long hallway, you come to find three more dark paths. Are going to be here forever?"}
+    document.getElementById("finalresult").innerHTML= "At the end of a long hallway, you come to find three more dark paths. Are you going to be here forever?"}
     
 function DarkOneResult() {
     document.getElementById("finalresult").innerHTML= "Well, that wasn't as cool as I thought."}
 function DarkTwoResult() {
-    document.getElementById("finalresult").innerHTML= "Good idea!! As it turns out, this room is full of treasure and artiacts. Well done!!"}
+    document.getElementById("finalresult").innerHTML= "Good idea!! As it turns out, this room is full of treasure and artifacts. Well done!!"}
 function DarkThreeResult() {
     document.getElementById("finalresult").innerHTML= "Ow! You keep tripping over things. This wasn't the best plan."}
