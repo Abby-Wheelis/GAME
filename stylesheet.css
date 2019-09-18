@@ -7,10 +7,17 @@ background-image: url(https://c1.staticflickr.com/7/6056/6327876385_485bfef56c_b
 
 h1
 {
-color:white; font-size: 30px;
+color:white; font-size: 36px;
 }
 
 p
 {
  color:white; font-size: 18px;
 }
+
+.button
+{
+ padding: 5px 5px;
+ font-size: 18px;
+ text-align: center;
+ 
