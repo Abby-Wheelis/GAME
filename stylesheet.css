@@ -2,3 +2,13 @@ body
 {
 background-image: url(https://c1.staticflickr.com/7/6056/6327876385_485bfef56c_b.jpg);
 }
+
+h1
+{
+color:"white";
+}
+
+p
+{
+ color:"white";
+}
